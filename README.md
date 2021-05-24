@@ -40,7 +40,6 @@ Users should be able to:
 - CSS Grid
 - [Styled Components](https://www.colorhunt.co) - For color-styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 
 ## Author
