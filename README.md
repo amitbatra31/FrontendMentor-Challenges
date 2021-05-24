@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Design preview for the Stats preview card component coding challenge](./Screenshot.png)
+![Design preview for the Stats preview card component coding challenge](.images/Screenshot.png)
 
 
 ### Links
